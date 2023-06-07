@@ -1,3 +1,4 @@
+# Github fetch issues
 ## Instructions
 
 1. Create a new [Github token (classic)](https://github.com/settings/tokens/new) with the `repo` permissions
